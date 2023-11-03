@@ -14,5 +14,5 @@ jobs:
       - name: npm install
         run: npm install
       - name: run lint
-        run: node ast/1.ast.js
+        run: node 1.ast.js
         
